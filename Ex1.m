@@ -1,6 +1,6 @@
 %% Introduction to neurophotonics - Ex. 1
 % Michal Katan (206799793)
-% 
+% Channa Shapira (314762006)
 
 %% Reset
 clear all;
